@@ -61,7 +61,8 @@ This assignment includes 🔧 terminal practices, 🗂️ file management, 👥 
 
 ### ✅ 6. Git Installation & Basics
 
-![Git Basics](assets/Task6.png)
+![Git Basics](assets/Task6(1).png)
+![Git Basics](assets/Task6(2).png)
 
 ---
 
@@ -73,7 +74,9 @@ This assignment includes 🔧 terminal practices, 🗂️ file management, 👥 
 
 ### ✅ 8. Git Branching and Merging
 
-![Branching & Merge](assets/Task8.png)
+![Branching & Merge](assets/Task8(1).png)
+![Branching & Merge](assets/Task8(2).png)
+
 
 ---
 

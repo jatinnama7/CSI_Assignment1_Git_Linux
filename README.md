@@ -88,7 +88,8 @@ This assignment includes 🔧 terminal practices, 🗂️ file management, 👥 
 
 ### ✅ 10. Merge Conflict Resolution
 
-![Merge Conflict](assets/Task10.png)
+![Merge Conflict](assets/Task10(1).png)
+![Merge Conflict](assets/Task10(2).png)
 
 ---
 
